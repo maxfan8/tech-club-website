@@ -1,0 +1,9 @@
+title: Tech Club @ Pike
+description: Everything about tech club!
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+include: ["_pages"]
+permalink: /:title/
