@@ -1,4 +1,4 @@
 ---
-layout: club
+layout: default
 ---
 
